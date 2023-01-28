@@ -54,4 +54,4 @@ El objetivo general de este proyecto es construir un bastón inteligente el cual
 | 06 |Como usuario quiero poder ser identificado del lugar donde estoy|Alta|4 semanas|Probando el bastón en la práctica|Oscar Adahir Rojas Sánchez|
 
 ## Prototipo en dibujo
-- Coloca la fotografia de tu prototipo dibujado a lapiz
+![WhatsApp Image 2023-01-27 at 19 08 56](https://user-images.githubusercontent.com/70409607/215236093-be307bf0-cc9c-4ab4-abfb-0817b05bca54.jpeg)

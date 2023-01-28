@@ -29,11 +29,11 @@ El objetivo general de este proyecto es construir un bastón inteligente el cual
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
 |  01  |ESP32|El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos.|![Uploading image.png…](https://m.media-amazon.com/images/I/61eyPE6adjL._SL1500_.jpg)|1|$160|
-|  02  |Raspberry PI 4|Raspberry Pi es una placa de microordenador, que como su propio nombre indica, es de pequeñas dimensiones a la cual se le pueden dar multitud de usos|(https://m.media-amazon.com/images/I/41cn6diLE0L._AC_.jpg)|1|$1991|
-|  03  |            |             |        |          |             |
-|  04  |            |             |        |          |             |
-|  05  |            |             |        |          |             |
-|  06  |            |             |        |          |             |
+|  02  |Raspberry PI 4|Raspberry Pi es una placa de microordenador, que como su propio nombre indica, es de pequeñas dimensiones a la cual se le pueden dar multitud de usos.|![Uploading image.png…](https://m.media-amazon.com/images/I/41cn6diLE0L._AC_.jpg)|1|$1991|
+|  03  |LED|Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz.|![Uploading image.png…](https://uelectronics.com/wp-content/uploads/2017/08/Leds-5-mm-difuso-V1.jpg)|4|$40|
+|  04  |Push Button|Switch push miniatura momentáneo normalmente abierto. Un interruptor eléctrico es en su acepción más básica un dispositivo que permite desviar o interrumpir el curso de una corriente eléctrica.|![Uploading image.png…](https://aelectronics.com.mx/2363/push-button-4-pines.jpg)|1|$10|
+|  05  |Módulo Mp3|El Módulo reproductor MP3 Arduino es un mini reproductor mp3 muy económico utilizado para reproducir estos formatos de audio en Arduino con una salida directa hacia un speaker.|![Uploading image.png…](https://www.luisllamas.es/wp-content/uploads/2017/01/arduino-mp3-DFPlayer-mini-componente.jpg)|1|$75|
+|  06  |Buzzer|Es un pequeño transductor capaz de convertir la energía eléctrica en sonido. Para hacerlos funcionar solo basta conectar el positivo con el + y la tierra o negativo con el – de una batería o cualquier fuente de corriente directa.|![Uploading image.png…](https://uelectronics.com/wp-content/uploads/2018/02/AR0355-Buzzer_v3.jpg)|1|$50|
 |  07  |            |             |        |          |             |
 |  08  |            |             |        |          |             |
 |  09  |            |             |        |          |             |

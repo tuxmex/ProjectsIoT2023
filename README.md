@@ -46,9 +46,12 @@ El objetivo general de este proyecto es construir un bastón inteligente el cual
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|    |                     |           |            |               |             |
-|    |                     |           |            |               |             |
-|    |                     |           |            |               |             |
+| 01 |Como usuario quiero detectar los posibles obstáculos en mi camino|Alta|4 semanas|Probando el bastón en la práctica|Erik Daniel Méndez Enríquez|
+| 02 |Como usuario quiero ser avisado de los posibles riesgos cercanos.|Alta|3 semanas|Probando el bastón en la práctica|Oscar Adahir Rojas Sánchez|
+| 03 |Como usuario quiero poder rastrear el bastón en caso de posible hurto|Alta|3 semanas|Captando la señal que otorgue el bastón|Miguel Ángel Hernández Solís|
+| 04 |Como usuario quiero poder ver las rutas que he tomado con el bastón|Media|4 semanas|Revisando los valores mandados por los sensores a la aplicación web|Erik Daniel Méndez Enríquez|
+| 05 |Como usuario quiero poder alertar que estoy en peligro|Alta|2 semanas|Probando el botón que activara el Buzzer|Miguel Ángel Hernández Solís|
+| 06 |Como usuario quiero poder ser identificado del lugar donde estoy|Alta|4 semanas|Probando el bastón en la práctica|Oscar Adahir Rojas Sánchez|
 
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz

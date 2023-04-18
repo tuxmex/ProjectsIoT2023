@@ -1,9 +1,9 @@
 # SmartCane
 
-## Integrantes
-- Oscar Adahir Rojas Sánchez
-- Erik Daniel Méndez Enríquez
-- Miguel Ángel Hernández Solís
+## Integrantes del equipo 
+- Oscar Adahir Rojas Sánchez (1220100308)
+- Erik Daniel Méndez Enríquez (1220100445)
+- Miguel Ángel Hernández Solís (1220100587)
 
 ## Objetivo general
 El objetivo general de este proyecto es construir un bastón inteligente el cual ayude tanto a personas ciegas como adultos mayores a la hora de transitar solos por las calles, dicho bastón ayudará a las personas a caminar por la banqueta de una manera más segura ya que lo irá guiando y en caso de detectar un objeto enfrente o salga de la banqueta el bastón avisará a su usuario, también tendrá opciones de alerta para el momento en el que se sientan en peligro o necesiten ayuda con cualquier cosa, solo basta con activar un botón de este y se accionará una alarma para que los demás se percaten de la situación y se acerquen a ayudarlo.

@@ -19,12 +19,11 @@ El objetivo general de este proyecto es construir un bastón inteligente el cual
 ## Tabla de Software Utilizado
 | Id | Software | Versión | Tipo |
 |----|----------|---------|------|
-| 01 |Visual Studio Code|1.74|Entorno de Desarrollo Integrado|
-| 02 |Arduino IDE|2.0|Entorno de Desarrollo Integrado|
-| 03 |ESP32|1.1.0|Librería|
-| 04 |Phyton|3.10|Lenguaje de Programación|
-| 05 |Node-Red|3.0.2|Herramienta de desarrollo basada en flujo|
-| 06 |Mosquitto|2.0.15|Agente MQTT|
+| 01 |Arduino IDE|2.0|Entorno de Desarrollo Integrado|
+| 02 |ESP32|1.1.0|Librería|
+| 03 |Phyton|3.10|Lenguaje de Programación|
+| 04 |Node-Red|3.0.2|Herramienta de desarrollo basada en flujo|
+| 05 |Mosquitto|2.0.15|Agente MQTT|
 
 ## Tabla de Hardware Utilizado (Controladores)
 | Id | Controlador | Descripción | Imagen | Cantidad | Costo total |
@@ -54,7 +53,6 @@ El objetivo general de este proyecto es construir un bastón inteligente el cual
 |----|------------|-------------|--------|----------|-------------|
 |  01  |Jumpers|Un jumper o saltador es un elemento que permite cerrar el circuito eléctrico del que forma parte dos conexiones.|![Uploading image.png…](https://http2.mlstatic.com/D_NQ_NP_648190-MLM49852695986_052022-O.jpg)|40|$50|
 |  02  |Micro USB|Es un cable de carga y transferencia de datos que tiene un conector pequeño y reversible en ambos extremos.|<img width="362" alt="usb " src="https://user-images.githubusercontent.com/123588416/232867677-7ffe46e8-a1fe-48a4-bfe2-76e51786cbc0.png">
-|1|$45|
 
 ## Epicas del proyecto
 - En muchas ocasiones las personas tienden a ser solidarias con quienes no pueden ver, sin embargo, hay algunas excepciones tristemente, el bastón inteligente trata de ayudar de manera completa a la persona invidente, poniendo como prioridad su seguridad en todo momento, haciendo que el usuario se sienta más tranquilo al caminar.
@@ -62,14 +60,13 @@ El objetivo general de este proyecto es construir un bastón inteligente el cual
 - Hay ocasiones en que las personas invidentes pueden tener pensamientos donde se consideren una carga para los demás, claro, esto depende del entorno en el que se rodean, donde en ocasiones, tristemente los individuos son muy poco empaticos con las personas que padecen esta discapacidad, el bastón es una manera de decirle al usuario que puede ser tan capaz como el resto, que puede ser libre y no depender de nadie, haciéndole entender que todo está bien consigo mismo y que para nada es una carga, si no, una persona distinta simplemente.
 
 ## Tabla de historias de usuario
-| Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
-|----|---------------------|-----------|------------|---------------|-------------|
-| 01 |Como usuario quiero detectar los posibles obstáculos en mi camino|Alta|4 semanas|Probando el bastón en la práctica|Erik Daniel Méndez Enríquez|
-| 02 |Como usuario quiero ser avisado de los posibles riesgos cercanos.|Alta|3 semanas|Probando el bastón en la práctica|Oscar Adahir Rojas Sánchez|
-| 03 |Como usuario quiero poder rastrear el bastón en caso de posible hurto|Alta|3 semanas|Captando la señal que otorgue el bastón|Miguel Ángel Hernández Solís|
-| 04 |Como usuario quiero poder ver las rutas que he tomado con el bastón|Media|4 semanas|Revisando los valores mandados por los sensores a la aplicación web|Erik Daniel Méndez Enríquez|
-| 05 |Como usuario quiero poder alertar que estoy en peligro|Alta|2 semanas|Probando el botón que activara el Buzzer|Miguel Ángel Hernández Solís|
-| 06 |Como usuario quiero poder ser identificado del lugar donde estoy|Alta|4 semanas|Probando el bastón en la práctica|Oscar Adahir Rojas Sánchez|
+| Id | Como               | Quiero                                                                                | Para                                                                          | Condiciones                                                                                                                                                                                   |
+|----|--------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01 | Usuario del bastón | Que el sistema me alerte en caso de peligro                                           | Evitar accidentes y lesiones                                                  | * Las alertas deben ser claras y sencillas de entender * Las alertas deben ser configurables para el usuario * El sistema debe dar retroalimentación inmediata al usuario                     |
+| 02 | Usuario del bastón | Que el sistema sea capaz de detectar ciertos colores                                  | Poder circular de manera segura y eficiente en mi entorno                     | * El sistema debe de detectar distintos colores para poder diferenciar obstáculos y señalamientos * El sistema debe de proporcionar retroalimentación al usuario mediante vibración o sonido  |
+| 03 | Usuario del bastón | Que el sistema informe en tiempo real las estadisticas del entorno donde me encuentro | Poder planificar mi ruta de manera más efectiva                               | * La información proporcionada por el sistema debe ser precisa y actualizada                                                                                                                  |
+| 04 | Usuario del bastón | Que el sistema sea sencillo de usar, con una interfaz simple e intuitiva              | Poder acceder a todas las funciones y configuraciones sin dificultad          | * El sistema debe de ser intuitivo y sencillo para las personas que no están familiarizadas con la tecnología                                                                                 |
+| 05 | Usuario del bastón | Que el sistema sea capaz de registrar y visualizar la información en un dashboard     | Poder analizar mis estadísticas y mejorar mi experiencia de uso a largo plazo | * El sistema debe de ser capaz de almacenar la información del usuario  * El dashboard debe de ser fácil de usar y entender                                                                   |
 
 ## Prototipo en dibujo
 ![WhatsApp Image 2023-01-27 at 19 08 56](https://user-images.githubusercontent.com/70409607/215236093-be307bf0-cc9c-4ab4-abfb-0817b05bca54.jpeg)

@@ -77,11 +77,23 @@ El sensor ultrasónico admite valores del 0 al 220, en donde cuando se tiene una
 
 - Monitoreo del sensor big sound
 
-El sensor big sound admite valores del 0 al 1, en donde el 1 muestra que el sensor está activo, haciendo que la gráfica cambie a color verde, por otro lado, el 0 muestra que el sensor está inactivo, dejando el estado de la grafica en color blanco 
+El sensor big sound admite valores del 0 al 1, en donde el valor 1 muestra que el sensor está activo, haciendo que la gráfica cambie a color verde, por otro lado, el 0 muestra que el sensor está inactivo, dejando el estado de la grafica en color blanco. 
+
+![Big Sound](https://user-images.githubusercontent.com/123588416/234082232-c19f00c0-22d1-45b3-a357-350cab3c77e1.jpeg)
 
 - Monitoreo del sensor de color
 
+El sensor de color de color lo que hace es que al momento de que registra valores entre el 45 y el 90 cambia a color amarrillo, indicando que está captando líneas de color amarrillo.
+
+![Sensor Color](https://user-images.githubusercontent.com/123588416/234082285-8446f67c-4a59-412b-8807-9a654253276e.jpeg)
+
+
 - Monitoreo del sensor de botón
+
+El sensor de botpn admite valores del 0 al 1, en donde el 0 indica que l botón no está siendo presionado, mientras que el 1 indica que el botón está siendo utilizado.
+
+![Botón](https://user-images.githubusercontent.com/123588416/234082335-922d8364-0bd4-46b7-93fb-93641ff94dc9.jpeg)
+
 
 ## Visualizando proyecto final
 ![WhatsApp Image 2023-04-24 at 11 41 45 (1)](https://user-images.githubusercontent.com/70409607/234081042-f5cfbc26-e9f4-43b0-bfce-d0d9d09d08c1.jpeg)
@@ -90,5 +102,6 @@ El sensor big sound admite valores del 0 al 1, en donde el 1 muestra que el sens
 ![WhatsApp Image 2023-04-24 at 11 41 47 (1)](https://user-images.githubusercontent.com/70409607/234081051-66a4d1c0-ecd3-43b1-b0af-5684e804d3e6.jpeg)
 ![WhatsApp Image 2023-04-24 at 11 41 47](https://user-images.githubusercontent.com/70409607/234081052-c5009c0a-fa59-4077-87b0-2cfd5439262c.jpeg)
 ![WhatsApp Image 2023-04-24 at 11 41 46](https://user-images.githubusercontent.com/70409607/234081056-b6ee0148-b46b-4d18-973f-363724b82a77.jpeg)
+
 
 ## Video explicativo del proyecto

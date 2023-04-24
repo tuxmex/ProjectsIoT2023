@@ -70,11 +70,13 @@ El objetivo general de este proyecto es construir un bastón inteligente el cual
 
 ## Dashboard del proyecto
 - Monitoreo del sensor ultrasónico
+
 El sensor ultrasónico admite valores del 0 al 220, en donde cuando se tiene una distancia del 80% se muestra un color verde, haciendo saber que la distancia es buena en relación a un objeto cercano, el 40% de la distancia es representado con el color naranja, mostrando que la distancia es regular, finalmente, en el color rojo, se representa una distancia corta, que tiene valores del 39% hacía abajo. 
 
 ![Ultrasónico](https://user-images.githubusercontent.com/123588416/234077732-7cb55947-3a10-4795-a7cf-58e2f806d31e.jpeg)
 
 - Monitoreo del sensor big sound
+
 El sensor big sound admite valores del 0 al 1, en donde el 1 muestra que el sensor está activo, haciendo que la gráfica cambie a color verde, por otro lado, el 0 muestra que el sensor está inactivo, dejando el estado de la grafica en color blanco 
 
 - Monitoreo del sensor de color

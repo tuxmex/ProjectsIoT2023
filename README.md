@@ -106,3 +106,6 @@ El sensor de botpn admite valores del 0 al 1, en donde el 0 indica que l botón 
 
 ## Proyecto funcional
 <a href="https://vm.tiktok.com/ZMYcqp6n7/">Video explicativo del proyecto</a>
+
+## Código fuente
+<a href="https://github.com/cr7kawai/Proyecto-IoT/blob/main/c%C3%B3digo%20fuente/c%C3%B3digo%20fuente.ino">Código fuente</a>

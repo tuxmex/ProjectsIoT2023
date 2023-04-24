@@ -68,5 +68,19 @@ El objetivo general de este proyecto es construir un bastón inteligente el cual
 | 04 | Usuario del bastón | Que el sistema sea sencillo de usar, con una interfaz simple e intuitiva              | Poder acceder a todas las funciones y configuraciones sin dificultad          | * El sistema debe de ser intuitivo y sencillo para las personas que no están familiarizadas con la tecnología                                                                                 |
 | 05 | Usuario del bastón | Que el sistema sea capaz de registrar y visualizar la información en un dashboard     | Poder analizar mis estadísticas y mejorar mi experiencia de uso a largo plazo | * El sistema debe de ser capaz de almacenar la información del usuario  * El dashboard debe de ser fácil de usar y entender                                                                   |
 
-## Prototipo en dibujo
-![WhatsApp Image 2023-01-27 at 19 08 56](https://user-images.githubusercontent.com/70409607/215236093-be307bf0-cc9c-4ab4-abfb-0817b05bca54.jpeg)
+## Dashboard del proyecto
+- Monitoreo del sensor ultrasónico
+El sensor ultrasónico admite valores del 0 al 220, en donde cuando se tiene una distancia del 80% se muestra un color verde, haciendo saber que la distancia es buena en relación a un objeto cercano, el 40% de la distancia es representado con el color naranja, mostrando que la distancia es regular, finalmente, en el color rojo, se representa una distancia corta, que tiene valores del 39% hacía abajo. 
+
+![Ultrasónico](https://user-images.githubusercontent.com/123588416/234077732-7cb55947-3a10-4795-a7cf-58e2f806d31e.jpeg)
+
+- Monitoreo del sensor big sound
+El sensor big sound admite valores del 0 al 1, en donde el 1 muestra que el sensor está activo, haciendo que la gráfica cambie a color verde, por otro lado, el 0 muestra que el sensor está inactivo, dejando el estado de la grafica en color blanco 
+
+- Monitoreo del sensor de color
+
+- Monitoreo del sensor de botón
+
+## Visualizando proyecto final
+
+## Video explicativo del proyecto

@@ -104,4 +104,5 @@ El sensor de botpn admite valores del 0 al 1, en donde el 0 indica que l botón 
 ![WhatsApp Image 2023-04-24 at 11 41 46](https://user-images.githubusercontent.com/70409607/234081056-b6ee0148-b46b-4d18-973f-363724b82a77.jpeg)
 
 
-## Video explicativo del proyecto
+## Proyecto funcional
+<a href="https://vm.tiktok.com/ZMYcqp6n7/">Video explicativo del proyecto</a>
